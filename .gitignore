@@ -1,2 +1,6 @@
 #gitignore locally
 *.bak
+
+#ignoner .temp
+
+*.tmp
